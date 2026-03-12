@@ -7,3 +7,6 @@ Attendees:
 * Melissa
 * Ana
 * Raquel
+
+Topics for discussion:
+* What is git
