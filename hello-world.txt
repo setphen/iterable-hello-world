@@ -1,0 +1,9 @@
+Hello world!
+
+Meeting about git
+Attendees:
+* Christian
+* Stephen
+* Melissa
+* Ana
+* Raquel
